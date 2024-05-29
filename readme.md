@@ -9,3 +9,9 @@ Depends on:
 - bcrypt
 - jsonwebtoken
 - mysql2
+
+How to use:
+
+1. Download release package
+2. Extract 'authentication' folder
+3. Add authentication folder to your project
